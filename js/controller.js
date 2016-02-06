@@ -1,0 +1,3 @@
+function exportLatestArticles() {
+  main.exportLatestArticles();
+}
